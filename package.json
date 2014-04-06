@@ -1,0 +1,19 @@
+{
+  "name": "backbone-registry",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-mocha": "^0.4.10",
+    "grunt-mocha-test": "^0.10.0",
+    "mocha": "^1.18.2",
+    "chai": "^1.9.1",
+    "expect.js": "^0.3.1"
+  }
+}

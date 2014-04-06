@@ -15,5 +15,8 @@
     "mocha": "^1.18.2",
     "chai": "^1.9.1",
     "expect.js": "^0.3.1"
+  },
+  "dependencies": {
+    "backbone": "~1.1.2"
   }
 }
